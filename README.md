@@ -89,7 +89,7 @@ coffee-shop-sales-analysis-excel/
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Alona Oleksiienko**  
 Data Analyst
