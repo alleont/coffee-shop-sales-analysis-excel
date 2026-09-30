@@ -1,10 +1,10 @@
-# ☕ Coffee Shop Sales Analysis | Microsoft Excel
+# Coffee Shop Sales Analysis | Microsoft Excel
 
-**End-to-end sales analytics project using Microsoft Excel based on Coffee Shop Sales data from New York, covering January–June 2023.**
+**End-to-end sales analytics project using Microsoft Excel based on Coffee Shop Sales data from New York, covering January-June 2023.**
 
 The project focuses on transforming transactional data into business insights through data profiling, cleaning, KPI analysis, sales performance analysis, product and category evaluation, ABC analysis, and dashboard development.
 
-### 🔗 Project Files
+### Project Files
 
 [📊 View the Excel analysis](./excel/Coffee_Shop_Sales_Analysis.xlsx)  
 [📑 View the project presentation](./presentation/Coffee_Shop_Sales_Analysis.pdf)  
@@ -12,7 +12,7 @@ The project focuses on transforming transactional data into business insights th
 
 ---
 
-## 📊 Project Overview
+## Project Overview
 
 The dataset contains **149,116 transactions**, **214,470 items sold**, **80 products**, **9 product categories**, and **3 store locations**.
 
@@ -22,7 +22,7 @@ The analysis was designed to answer key business questions around revenue growth
 
 ---
 
-## 🧹 Data Preparation
+## Data Preparation
 
 The project started with data profiling and quality validation, including checks for missing values, duplicate transactions, invalid quantities and prices, date and time consistency, ID-to-attribute relationships, text quality, and potential outliers.
 
@@ -32,7 +32,7 @@ Potential outliers were reviewed and retained because they were not automaticall
 
 ---
 
-## 📈 Sales & Product Analysis
+## Sales & Product Analysis
 
 The analysis covered monthly revenue and transaction trends, category performance, top products, store performance, day-of-week and time-of-day patterns, as well as transaction basket behavior.
 
@@ -46,7 +46,7 @@ Revenue was also distributed almost evenly across **Hell's Kitchen, Astoria, and
 
 ---
 
-## 📦 ABC Product Portfolio Analysis
+## ABC Product Portfolio Analysis
 
 An **ABC analysis** was conducted to evaluate the contribution of individual products to total revenue.
 
@@ -56,7 +56,7 @@ This indicates that revenue is distributed across a relatively broad product por
 
 ---
 
-## 📊 Excel Dashboard
+## Excel Dashboard
 
 The final dashboard provides a visual overview of sales performance, including revenue, transactions, AOV, items sold, revenue growth, monthly trends, category performance, top products, and store contribution.
 
@@ -66,7 +66,7 @@ The final dashboard provides a visual overview of sales performance, including r
 
 ---
 
-## 💡 Key Insights
+## Key Insights
 
 **Revenue growth was volume-driven.** Revenue more than doubled from January to June, primarily due to a significant increase in transaction volume.
 
@@ -78,13 +78,13 @@ The final dashboard provides a visual overview of sales performance, including r
 
 ---
 
-## ⚠️ Data Limitations
+## Data Limitations
 
 The dataset does not contain cost, expense, customer, or marketing information. Therefore, profitability and margin analysis, customer segmentation, LTV, repeat purchase analysis, and marketing campaign effectiveness could not be assessed.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 coffee-shop-sales-analysis-excel/
@@ -100,7 +100,7 @@ coffee-shop-sales-analysis-excel/
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Alona Oleksiienko**  
 Data Analyst
