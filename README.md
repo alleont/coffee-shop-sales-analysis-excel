@@ -36,7 +36,7 @@ Potential outliers were reviewed and retained because they were not automaticall
 
 The analysis covered monthly revenue and transaction trends, category performance, top products, store performance, day-of-week and time-of-day patterns, as well as transaction basket behavior.
 
-Revenue increased by **103.8%** from January to June, while transaction volume increased by **104.2%**. AOV remained almost unchanged at **−0.2%**, indicating that revenue growth was primarily driven by higher transaction volume.
+Revenue increased by **103.8%** from January to June, while transaction volume increased by **104.2%**. AOV remained almost unchanged at **-0.2%**, indicating that revenue growth was primarily driven by higher transaction volume.
 
 **Coffee and Tea generated 66.74% of total revenue**, while the top 10 products contributed **25.38%**.
 
